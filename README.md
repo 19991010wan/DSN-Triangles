@@ -32,17 +32,3 @@ In *RQ2*, the data for **Section 4.2** are provided:
   - Column 32: Average Experience
 
 - `time_related_effect.pdf` displays the time-fixed effects tests of DSN stability and the four project outcome variables.
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iframe id="intercom-frame" aria-hidden="true" tabindex="-1" title="Intercom" style="color: rgb(128, 0, 128); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: no-contextual; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; pointer-events: none; position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0px !important; left: 0px !important; border: none !important; display: block !important; z-index: -1 !important;"></iframe>
